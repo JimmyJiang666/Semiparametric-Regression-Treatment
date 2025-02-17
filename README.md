@@ -90,16 +90,16 @@ This repository implements an innovative semiparametric regression model for ana
 
 ## Installation`
 
-# Create and activate a virtual environment (recommended)
+**Create and activate a virtual environment (recommended)**
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
-# or
+**or**
 venv\Scripts\activate     # Windows
 
-# Install dependencies
+**Install dependencies**
 pip install -r requirements.txt
 
-# Install the package in development mode
+**Install the package in development mode**
 pip install -e .
 ```
 
