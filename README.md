@@ -32,6 +32,7 @@ This repository implements an innovative **semiparametric regression model** for
  ┃ ┗ 📜 diag_score_comparison.ipynb  # Diagnostic score comparison
  ┣ 📂 tests/                # Test suite
  ┣ 📂 docs/                 # Documentation
+ ┣ 📂 figures/              # Figures produced
  ┣ 📜 setup.py             # Package installation configuration
  ┣ 📜 requirements.txt     # Project dependencies
  ┣ 📜 README.md            # English documentation
