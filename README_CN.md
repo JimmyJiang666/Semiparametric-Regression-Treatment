@@ -32,6 +32,7 @@
  ┃ ┗ 📜 diag_score_comparison.ipynb  # 诊断评分比较
  ┣ 📂 tests/                # 测试套件
  ┣ 📂 docs/                 # 文档
+ ┣ 📂 figures/              # 图片
  ┣ 📜 setup.py             # 包安装配置
  ┣ 📜 requirements.txt     # 项目依赖
  ┣ 📜 README.md            # 英文文档
