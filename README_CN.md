@@ -122,7 +122,7 @@ pip install -e .
 ```bibtex
 @article{your-paper-reference,
   title={Learning Interactions Between Continuous Treatments and Covariates with a Semiparametric Model},
-  author={Your Name},
+  author={***},
   journal={Conference on Health, Inference, and Learning (CHIL)},
   year={2025}
 }
