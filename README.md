@@ -124,9 +124,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Project Maintainer: [Muyan Jiang]
 - Email: [muyan_jiang@berkeley.edu]
-
-## Acknowledgments
-
-We thank all contributors to this project. Special thanks to [relevant institutions/individuals] for their valuable suggestions and support during the development process.
-
-
