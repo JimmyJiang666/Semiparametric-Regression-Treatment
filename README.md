@@ -114,7 +114,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @inproceedings{jiang2025learning,
-  author       = {\textbf{M. Jiang} and Yunkai Zhang and Anil Aswani},
+  author       = {Muyan Jiang and Yunkai Zhang and Anil Aswani},
   title        = {Learning Interactions Between Continuous Treatments and Covariates with a Semiparametric Model},
   booktitle    = {Proceedings of the Conference on Health, Inference, and Learning (CHIL 2025)},
   year         = {2025},
