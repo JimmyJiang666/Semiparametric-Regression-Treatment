@@ -113,11 +113,12 @@ pip install -e .
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{your-paper-reference,
-  title={Learning Interactions Between Continuous Treatments and Covariates with a Semiparametric Model},
-  author={***},
-  journal={Conference on Health, Inference, and Learning (CHIL)},
-  year={2025}
+@inproceedings{jiang2025learning,
+  author       = {\textbf{M. Jiang} and Yunkai Zhang and Anil Aswani},
+  title        = {Learning Interactions Between Continuous Treatments and Covariates with a Semiparametric Model},
+  booktitle    = {Proceedings of the Conference on Health, Inference, and Learning (CHIL 2025)},
+  year         = {2025},
+  publisher    = {Proceedings of Machine Learning Research},
 }
 ```
 
